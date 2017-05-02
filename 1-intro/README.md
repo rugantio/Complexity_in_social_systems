@@ -1,4 +1,5 @@
 Notebooks of the lecture of May 3, 2017.
+
 Lecture topics:
   - introduction to Python e Jupyter notebook
   - basic examples of data import and network representations
