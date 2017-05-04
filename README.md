@@ -7,5 +7,5 @@ More info about the course are available here:
 http://fisica-sc.campusnet.unito.it/do/corsi.pl/Show?_id=4ef1
 
 # License
-This work is licensed under a (Creative Commons Attribution 3.0 Unreported License.)[https://creativecommons.org/licenses/by/3.0/]
+This work is licensed under a [Creative Commons Attribution 3.0 Unreported License.](https://creativecommons.org/licenses/by/3.0/)
 
